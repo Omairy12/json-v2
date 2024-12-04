@@ -1,4 +1,4 @@
-# Magisk Modules Alt Repo
+0169c85e2524718ca7352bf503ccf791af0b9ba4# Magisk Modules Alt Repo
 
 This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL).
 
